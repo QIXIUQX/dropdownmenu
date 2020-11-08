@@ -61,6 +61,11 @@ export default {
       isOpen: false,
     };
   },
+  computed: {
+    setStyle() {
+      return {};
+    },
+  },
   components: {},
 };
 </script>
